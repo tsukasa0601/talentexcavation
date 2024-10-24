@@ -54,7 +54,7 @@ footer {
     }
 }
 .header-image {
-    max-width: 100%; /* 画面幅に合わせて調整 */
+    max-width: 30%; /* 画面幅に合わせて調整 */
     height: auto; /* 高さを自動調整 */
     display: block; /* ブロック要素にする */
     margin: 0 auto; /* 中央寄せ */
